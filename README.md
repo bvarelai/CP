@@ -9,7 +9,7 @@
 ### Parallelism Practise
 
 - [P1](https://github.com/bvarelai/CP/tree/main/Parallelism/P1) 
-- [P2](https://github.com/bvarelai/CP/tree/main/Parallelism/P1)
-- [P3](https://github.com/bvarelai/CP/tree/main/Parallelism/P1)
+- [P2](https://github.com/bvarelai/CP/tree/main/Parallelism/P2)
+- [P3](https://github.com/bvarelai/CP/tree/main/Parallelism/P3)
 
 
